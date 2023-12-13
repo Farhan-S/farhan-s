@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-s&" alt="farhan-s" /></p>
 
-<img align="right" alt="Coding" width="800" heght="200" src="[https://lh5.googleusercontent.com/dOREigtIPzKG4e79e8wLBidCozN7aIO1kq_acyAJD3_-xZNNT-efOU17JkCFEBO78CsKrIH9r3_lYDyCjdzT95z9Uw1vckVe0Cb4bRpDIzwIkKedm_3FXbxLF7ygTcyDUg=w1280](https://lh5.googleusercontent.com/dOREigtIPzKG4e79e8wLBidCozN7aIO1kq_acyAJD3_-xZNNT-efOU17JkCFEBO78CsKrIH9r3_lYDyCjdzT95z9Uw1vckVe0Cb4bRpDIzwIkKedm_3FXbxLF7ygTcyDUg=w1280)https://lh5.googleusercontent.com/dOREigtIPzKG4e79e8wLBidCozN7aIO1kq_acyAJD3_-xZNNT-efOU17JkCFEBO78CsKrIH9r3_lYDyCjdzT95z9Uw1vckVe0Cb4bRpDIzwIkKedm_3FXbxLF7ygTcyDUg=w1280"/>
+<img align="center" alt="Coding" width="800" heght="200" src="https://github.com/Farhan-S/farhan-s/blob/main/Architect.png"/>
 
