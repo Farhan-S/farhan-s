@@ -69,7 +69,7 @@
   "gitlens.graph.minimap.additionalTypes": [],
   "workbench.colorTheme": "Material Theme Darker",
 
-  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
   "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "terminal.integrated.shellArgs.windows": ["-NoProfile"],
   "terminal.integrated.rendererType": "canvas",
